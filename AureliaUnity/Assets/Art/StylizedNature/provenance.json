@@ -1,0 +1,236 @@
+[
+  {
+    "name": "BirchTree_1.fbx",
+    "source": "https://drive.google.com/file/d/1TqCISB2H8Hh9F9I1ah17UeYWdTNIeyE4",
+    "sha256": "d2d173e72b57b06663961bfabf7f2e1642219630d9aeb32bea891fdd16577c32",
+    "size": 214508
+  },
+  {
+    "name": "BirchTree_2.fbx",
+    "source": "https://drive.google.com/file/d/1NeX5P9AYTP03fYs3yt0GmcbfWTo3mO7S",
+    "sha256": "c1d61256ad558f137039afe632067264c0bfd418e6ac4839a9a6b210af234028",
+    "size": 317804
+  },
+  {
+    "name": "Bush_Flowers.fbx",
+    "source": "https://drive.google.com/file/d/1xnVou1bJLpZ70ir7ITylQz20xxOJvt3L",
+    "sha256": "07a81fa5e217b05ee3ef552c7cad176810c1bccbe803c87fa6bf05ba6f065c1f",
+    "size": 42668
+  },
+  {
+    "name": "Bush_Large_Flowers.fbx",
+    "source": "https://drive.google.com/file/d/1fyb2vgPm6a33YFa8pbamRXWRetv97-V_",
+    "sha256": "0cd76119637c927a44c1da118906592ddcabb10e6a51f100727dc8fae95ae068",
+    "size": 36988
+  },
+  {
+    "name": "Bush_Large.fbx",
+    "source": "https://drive.google.com/file/d/1ethYMJxGavkywgfZO2w2zZqYJDSql6Tr",
+    "sha256": "09c2005375b7dbb6a7a0ff30d73498c1f0e64f7ff3d56f6da60ff29d5af698d1",
+    "size": 31228
+  },
+  {
+    "name": "Bush_Small_Flowers.fbx",
+    "source": "https://drive.google.com/file/d/1OTxR7qfz0Bz1xlX8m0r6bvmoKlqF_kld",
+    "sha256": "920342821aca25413010da5750024445b2e0e41e27c635213cc32ea18ed38b86",
+    "size": 30044
+  },
+  {
+    "name": "Bush_Small.fbx",
+    "source": "https://drive.google.com/file/d/1QuMGEevqeAawRWVqxrza4EsM6omZ46TB",
+    "sha256": "17c6402f5a163ffb52b9c0d16ed2fadd2a09fb2825cd8f17be17360348f86a07",
+    "size": 25948
+  },
+  {
+    "name": "Bush.fbx",
+    "source": "https://drive.google.com/file/d/1LJ8AhQ7zJ3A2J9RhQHP-FLJI3zyN2-wp",
+    "sha256": "a77ac12e7bab9efa747fe887dd49b7c3541d9e996fcc2671ee4924206a53aa6d",
+    "size": 38748
+  },
+  {
+    "name": "Flower_1_Clump.fbx",
+    "source": "https://drive.google.com/file/d/1gdFLuY9SwiuB9taSwTDETIh2exPO6ism",
+    "sha256": "a619bb2e96f6e6cc17ecd0f934be5cda923ee520c6c0f96eef52501ae89a1431",
+    "size": 37308
+  },
+  {
+    "name": "Flower_2_Clump.fbx",
+    "source": "https://drive.google.com/file/d/15RqT7ROWkRXBWwVQOmonhPyPit3qeCv2",
+    "sha256": "d7d4a658c39db6fd5ca8b455a58e225365ac1f121ed2beef685d5c011c95cc8b",
+    "size": 18284
+  },
+  {
+    "name": "Flower_3_Clump.fbx",
+    "source": "https://drive.google.com/file/d/1Kz4K2MSAa5DAt5P6iftoivQLbwbfSWyy",
+    "sha256": "0de483e14e0b2038278b918b40a84876c11a2cacd7c2eba063d41ae2b6c95dce",
+    "size": 18284
+  },
+  {
+    "name": "Grass_Small.fbx",
+    "source": "https://drive.google.com/file/d/10e2BB05c1SCDY7o-Rkr-BIyN1HERFGYA",
+    "sha256": "e4edfe7fdeb03dc6f3398e1778653e6d156b75935bd57357ab3ff4182bd48144",
+    "size": 16988
+  },
+  {
+    "name": "MapleTree_1.fbx",
+    "source": "https://drive.google.com/file/d/12TkCbB2QeHF1tNvBpCx7ou8r1BYBXmRY",
+    "sha256": "97847e5111e27e2c87016c9e94e58e19e4907ab344abb27281f7f8249f3aef5e",
+    "size": 160700
+  },
+  {
+    "name": "MapleTree_2.fbx",
+    "source": "https://drive.google.com/file/d/1N3oja8hMI9AFsbMenBfZNDu2BJfyo9cF",
+    "sha256": "21cb3f681b28879bcdd203dcebf9b6d8e34f1465eebf4477ba6cb2a717edc491",
+    "size": 204092
+  },
+  {
+    "name": "NormalTree_1.fbx",
+    "source": "https://drive.google.com/file/d/18r7_XajM0jDcL2vwgaD646UCS_7-4SQY",
+    "sha256": "d9993636ddbc682bd945a3fa701514ed74516ad2d0dda008a72b351bd9308887",
+    "size": 396636
+  },
+  {
+    "name": "NormalTree_2.fbx",
+    "source": "https://drive.google.com/file/d/12P_C2z9Y4zpbIWl9Qn_5lXBg498ncnoK",
+    "sha256": "a1adfb4daffb0d5632913a762a545ff18530db0cc82d763be7be6b5db83f41b2",
+    "size": 338396
+  },
+  {
+    "name": "NormalTree_3.fbx",
+    "source": "https://drive.google.com/file/d/17kDo5Mj9uS4PwOaLUY5BPYbk8dTg_WR1",
+    "sha256": "fb9d4452bb0fbccbf20894deb346759f9316d25fd0ab483508143eae6f4d05af",
+    "size": 290620
+  },
+  {
+    "name": "BirchTree_Bark_Normal.png",
+    "source": "https://drive.google.com/file/d/1vfDzHgS6CBiL7LW3GKldOE_PhceVh_5k",
+    "sha256": "e30ee9c7561742523340d5657056f8392bc0f944da5145f0af7690cd1d2e6a11",
+    "size": 22721595
+  },
+  {
+    "name": "BirchTree_Bark.png",
+    "source": "https://drive.google.com/file/d/1aEMsAWATmNyVB7yv_Pupx8LHw0cy6u4p",
+    "sha256": "689dd3e55523e999cf9a2271aa1e8ce1ac6a7cf3a2dc4bd796dd76860a33154b",
+    "size": 23133683
+  },
+  {
+    "name": "BirchTree_Leaves.png",
+    "source": "https://drive.google.com/file/d/1ZPQRLXANz2z7pXirP2GIUm3nd9h_clwf",
+    "sha256": "8b674a02017d987f8ec0448bd2a52ad788d1235f91b7f00499b4ca071f8e69fe",
+    "size": 77836
+  },
+  {
+    "name": "Bush_Leaves.png",
+    "source": "https://drive.google.com/file/d/1yBz894w6XWBFvcQ75GDaRoQaunCHx4Q0",
+    "sha256": "9f662296a285ca56b1ed56e952a198b93b466ae39ab7b6ee1c1ac1bd1c46242f",
+    "size": 74828
+  },
+  {
+    "name": "Flowers.png",
+    "source": "https://drive.google.com/file/d/1aVoa3KmIjIlIA5MhvUn7Z5trLRBlM1r6",
+    "sha256": "23673fc87e55d8f7cbc699581a164cffec505376bd8b0b90b593dc387aa569fd",
+    "size": 318021
+  },
+  {
+    "name": "Grass.png",
+    "source": "https://drive.google.com/file/d/1JOnNDiQhoUzB637HUMaOASCySSEW9UFx",
+    "sha256": "facde747020acfefdc84d176dd4037282895d200a66fc20b0d9baca470f310f1",
+    "size": 734927
+  },
+  {
+    "name": "Leaves_BW.png",
+    "source": "https://drive.google.com/file/d/1k3hoJvFC0dR9bt8vGNPpUfmVth3C32DJ",
+    "sha256": "1440d34b8c8d2bcf15216bfe7c3c7840b64d8b289b1c2c588528001860f6a6a2",
+    "size": 105528
+  },
+  {
+    "name": "MapleTree_Bark_Normal.png",
+    "source": "https://drive.google.com/file/d/151EDTiGK1Orms3sXDCsT9stYtqnGvl0a",
+    "sha256": "2e3d97d57838d6e8203f0fab2858bada8ad1e6d6f240c0e898f8e88c110f2f5d",
+    "size": 22064128
+  },
+  {
+    "name": "MapleTree_Bark.png",
+    "source": "https://drive.google.com/file/d/1acgKpeavex4F-60DgC-IAtaQBof6h6JM",
+    "sha256": "183645b8dc99e810e9b4c5d48a0944ccff4c2f2a9bd5f1816ab66a367cfe9a92",
+    "size": 22229469
+  },
+  {
+    "name": "MapleTree_Leaves_BW.png",
+    "source": "https://drive.google.com/file/d/1x1R79Mikluy3vNjKG57F6ECWujC-8Yhg",
+    "sha256": "6398f4fba1d7612526065f0be51d8c285f57cd3e6883bd4e464c9b7e6d1df15d",
+    "size": 138667
+  },
+  {
+    "name": "MapleTree_Leaves.png",
+    "source": "https://drive.google.com/file/d/1bEUjiz9g2rhWGPu1pyjYmZ_FFtEhXMg1",
+    "sha256": "915f0836e9889e28032662c7aa0d0eb9601ba999eda042c9a4e38690786d6c7b",
+    "size": 212333
+  },
+  {
+    "name": "NormalTree_Bark_Normal.png",
+    "source": "https://drive.google.com/file/d/1LIstIQfo3n_cK8vWguFg2N42yCJ9plCc",
+    "sha256": "8136a8d6dc18e6b055c7cb53cf42bc6bac41319e102289d8ba25ee5837fbc39b",
+    "size": 19087640
+  },
+  {
+    "name": "NormalTree_Bark.png",
+    "source": "https://drive.google.com/file/d/1Yj_m3kf_BfoiTNRf67932Jq2MTZqNP2B",
+    "sha256": "17d8836b4eb3462c486bc0ca596d8d4dcde918c0ce0dd37eec9111b2e175be69",
+    "size": 20875728
+  },
+  {
+    "name": "NormalTree_Leaves.png",
+    "source": "https://drive.google.com/file/d/1hGjtu8MT0HCZThjRaT-gdrujpc7qi1sW",
+    "sha256": "9f662296a285ca56b1ed56e952a198b93b466ae39ab7b6ee1c1ac1bd1c46242f",
+    "size": 74828
+  },
+  {
+    "name": "PalmTree_Leaves.png",
+    "source": "https://drive.google.com/file/d/1T8j8xCuwT4Ie7FaXLYgvgx1AX4tVOX_G",
+    "sha256": "6702bdeb0d5496527a049145583c98c4fdaee9fc55ea5d33a3ca2a9014a0cc74",
+    "size": 279770
+  },
+  {
+    "name": "PalmTree_Trunk_Normal.png",
+    "source": "https://drive.google.com/file/d/1pQhHb_un8hilDaT_BMISoiVJqUZJHceJ",
+    "sha256": "3d93f46d0b12b0007ce9b6b396e2c582092f1e46747d951c0e3008e48d601c78",
+    "size": 8876810
+  },
+  {
+    "name": "PalmTree_Trunk.png",
+    "source": "https://drive.google.com/file/d/1GeJkoaKTw0A6_lyI2hNZldzGZk43Tq1J",
+    "sha256": "504d8d7e87ad686efd267a4f6eba2b2faacc589b4a169f1904aca1d6ff5e672d",
+    "size": 21347386
+  },
+  {
+    "name": "PineTree_Bark_Normal.png",
+    "source": "https://drive.google.com/file/d/1LLev8AoiSM8WE3Vajd0EQiPFaRUCSjq_",
+    "sha256": "d23c7bbce3f0052ade223d3195c24bc4e8d870b33a23c788c9bd87026fa2c79b",
+    "size": 20937374
+  },
+  {
+    "name": "PineTree_Bark.png",
+    "source": "https://drive.google.com/file/d/1waE0sZebKnv_QchJdxpdQrg4bog5O-PY",
+    "sha256": "dcda0e989e2d0f6325e2fb994589d6be9e71191dd3f888b15d22720d5527fe0f",
+    "size": 15436565
+  },
+  {
+    "name": "PineTree_Leaves.png",
+    "source": "https://drive.google.com/file/d/1MlQ0GHJdnwa03er2jCAPfRcgfl55Vgts",
+    "sha256": "8d3e0b49043639089ec68a36058c5b2ceea3fadded773adf7d9acbd006c49e1c",
+    "size": 491019
+  },
+  {
+    "name": "Rocks.png",
+    "source": "https://drive.google.com/file/d/1fuJ_X7P-sCTsNIDslKGt7L2V1mCsxsZM",
+    "sha256": "643d97219a00269b67f49b03123dff8d138cb4036c1a77153f917a3843332ce0",
+    "size": 3036940
+  },
+  {
+    "name": "License.txt",
+    "source": "https://drive.google.com/file/d/1W3YGLar9Ie0Lwfw7QJv1x8oBLKFPuOkW",
+    "sha256": "de990ef6fc68cffd7fd1ae342c4d0c823b541b8848d8f76bca5d3339f4de6f6e",
+    "size": 374
+  }
+]

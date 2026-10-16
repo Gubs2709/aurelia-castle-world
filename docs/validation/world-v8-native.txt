@@ -1,0 +1,22 @@
+NVIDIA GeForce RTX 5060 Ti | 1600x1000
+PASS effective runtime bloom is zero (including pipeline defaults)
+PASS visible 3D animated knight at startup
+PASS third person orbit
+PASS skinned knight bones=50
+PASS walk clip knee motion over full cycle=25.60deg; Speed=0.5
+PASS jump state
+PASS attack state
+PASS ocean quay player is grounded
+PASS walk input 4.49m
+PASS sprint input 10.01m
+PASS lake and ocean boat animation
+PASS large and small drifting clouds
+ocean harbour FPS=218.7 p95ms=5.38
+PASS 22 harbour residents
+PASS quayside resident walks on route
+PASS river retreat player grounded
+river retreat FPS=120.3 p95ms=8.62
+PASS sea guardian player grounded
+guardian cliff FPS=892.1 p95ms=1.30
+under canopy FPS=119.1 p95ms=9.16
+castle vista FPS=109.5 p95ms=9.48

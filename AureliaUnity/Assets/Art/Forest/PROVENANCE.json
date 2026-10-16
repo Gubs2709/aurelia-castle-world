@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-15",
+  "source": "Original AI-generated transparent foliage using image_gen",
+  "assets": [
+    {
+      "file": "Cherry.png",
+      "prompt": "A lush natural cherry blossom bough, many small soft pale pink and rose-pink five-petalled blossoms in airy clusters on delicate forked brown twigs, a few small fresh green leaves, sunlit painterly realism suitable for a beautiful 3D anime fantasy adventure forest. Wide branching silhouette, many tiny transparent gaps, crisp detailed flowers with soft natural shading. Entire bough fully in frame with transparent margins. Genuinely transparent background, no sky, no objects, no text. Square game foliage cutout texture."
+    },
+    {
+      "file": "Maple.png",
+      "prompt": "A dense branching spray of Japanese maple foliage, many individually recognizable five-lobed and seven-lobed pointed maple leaves in crimson, scarlet and orange-red, fine dark twigs, small transparent gaps throughout. Sunlit painterly realism for a high quality 3D fantasy adventure game. Entire branching cluster isolated and fully in frame, square image, genuinely transparent background, no sky, no ground, no text. Natural irregular fine silhouette with detailed leaf veins."
+    },
+    {
+      "file": "Wisteria.png",
+      "prompt": "A graceful wisteria branch, green pinnate leaves across its upper portion and several lush hanging racemes of lilac, lavender and purple wisteria blossoms, fine brown twig structure, delicate individually defined small flowers, airy gaps. Sunlit painterly realism for a high quality 3D fantasy adventure game. Entire bough isolated, square composition, genuinely transparent background. No ground, no sky, no text. Organic detailed foliage cutout texture."
+    }
+  ]
+}

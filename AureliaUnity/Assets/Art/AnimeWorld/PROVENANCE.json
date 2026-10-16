@@ -1,0 +1,18 @@
+{
+  "source": "Original built-in image_gen assets",
+  "date": "2026-10-16",
+  "assets": [
+    {
+      "file": "PaintedBark.png",
+      "prompt": "Seamless tileable hand-painted anime game bark texture, dark chocolate brown and muted charcoal-purple old maple bark, long irregular vertical furrows, broad twisting painterly ridges, warm ochre highlights on raised bark, small scattered olive moss near bottom with subtle lichen. Flat orthographic material albedo only, no trunk silhouette, no perspective, no cast shadows, no text, no borders. Rich crisp brushwork like a detailed hand-painted anime forest background, not photorealism, not cracked stone. Square seamless texture covering every pixel."
+    },
+    {
+      "file": "AutumnMaple.png",
+      "prompt": "Game foliage cutout texture on a genuinely transparent background: ONE irregular airy branching maple bough with many individually shaped five and seven pointed leaves, clustered in layered sprays, fine dark branching twigs visible through gaps. Japanese anime background painting style with crisp painted shapes, warm orange scarlet red and golden-yellow leaves, brighter tips and deep crimson interior shade, beautiful dense but not solid foliage. Entire bough within frame with transparent margins, no sky, no landscape, no lettering, no flat background. This will be repeated on 3D tree branch meshes; keep leaves varied in size and orientation."
+    },
+    {
+      "file": "BlossomBough.png",
+      "prompt": "Game foliage cutout texture on a genuinely transparent background: ONE broad irregular airy cherry blossom bough, delicate dark branching twigs, layered small pale-pink light-rose and magenta five-petalled flowers with a few small fresh green leaves. Crisp painterly Japanese anime background style, distinct small flower silhouettes and many fine transparent gaps, warm light on upper edges, lavender-pink shadow underneath. Entire bough within frame with transparent margins. No sky, no trunk, no landscape, no text. Designed as an alpha-cutout branch texture for a detailed 3D forest, not a complete tree."
+    }
+  ]
+}

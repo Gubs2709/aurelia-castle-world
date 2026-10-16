@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-15",
+  "generator": "Built-in image generation tool",
+  "assets": [
+    {
+      "file": "Cloud.png",
+      "prompt": "A single enormous vertically towering cumulus cloud column, richly sculpted natural fluffy billows, bright creamy white and pale golden sunlight along right edges, cool lavender and pale blue recessed shadows, detailed realistic atmospheric wisps and soft feathered edges. High quality fantasy open world sky cloud game sprite, front view, portrait 2:3 shape, the entire tall irregular cloud is isolated, generous transparent margin on all sides, genuinely transparent background. No sky, ground, buildings, text or scenery.",
+      "transparent_background": true
+    },
+    {
+      "file": "LeafBranch.png",
+      "prompt": "A photorealistic leafy oak branch for a premium 3D game vegetation cutout texture, one dense but airy cluster of 25 to 40 small mature oak leaves on fine forked brown twigs, natural muted forest green, some backlit golden green leaves, realistic veins, irregular lobed leaf shapes, varied angles, intricate silhouette with many small transparent gaps, neutral outdoor daylight. Full branch completely in frame, isolated on genuinely transparent background, square image. No text, no containers, no terrain, no painted green blob, no decorative border.",
+      "transparent_background": true
+    },
+    {
+      "file": "Limestone.png",
+      "prompt": "Seamlessly tileable square photorealistic PBR base color texture, straight-on orthographic scan of pale warm ivory limestone castle ashlar masonry, medieval craftsmanship, varied rectangular chiseled blocks in staggered horizontal courses, shallow narrow recessed mortar joints, subtle weathering and fine pitting, tiny natural mineral flecks, worn bevelled block edges, restrained grey patina, clean elegant royal castle stone. Flat neutral diffuse daylight, NO baked directional shadows, no perspective, no vignette, no objects, no text. Fine detailed material surface fills entire frame and repeats seamlessly.",
+      "transparent_background": false
+    },
+    {
+      "file": "Rock.png",
+      "prompt": "Seamlessly tileable square photorealistic PBR base color texture of rugged natural grey limestone outcrop, layered weathered fractured stone, subtle sedimentary strata and angular fissures, realistic varied cool grey mineral tones, sparse lichen and very subtle moss traces in cracks, neutral diffuse overcast light, flat orthographic surface scan, no strong baked directional shadows, no perspective, no objects, no text, no vignette. Natural rock face fills entire frame and must repeat seamlessly.",
+      "transparent_background": false
+    }
+  ],
+  "additional_asset": {
+    "file": "SmallCloud.png",
+    "prompt": "One natural fair-weather cumulus cloud, horizontal loose cluster of soft round billows, flattened pale grey-blue underside and bright white upper puffs, warm afternoon sunlight from upper right, photorealistic detailed atmospheric wisps, gentle volume and airy translucent edges. A distant normal small sky cloud texture for a realistic 3D fantasy adventure game. Landscape 3:2 format, entire cloud fully visible with transparent padding, genuinely transparent background. No sky, no scenery, no text, no silhouette box. It should look like an ordinary small white cloud, not a tall storm column."
+  }
+}

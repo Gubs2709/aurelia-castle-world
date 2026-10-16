@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-16",
+  "tool": "Built-in image_gen",
+  "purpose": "Original texture and alpha assets for the supplied reference scenes",
+  "assets": [
+    {
+      "file": "GreenBough.png",
+      "prompt": "A game foliage alpha cutout: one broad irregular leafy bough of a mature deciduous oak, many small individually defined lobed leaves in layered sprays, deep forest green shadows, fresh medium emerald green, soft luminous yellow-green sunlit tips. Hand painted Japanese anime background style with crisp tasteful brushwork, not photographic, not plastic. Fine warm-brown branch structure partly visible through many transparent gaps. Entire bough fully within frame, isolated on a genuinely transparent background, no sky, no landscape, no trunk, no text, no glow or haze. Wide silhouette, dense natural clusters separated by airy gaps. For alpha cards on a real 3D broad-crowned coastal shade tree."
+    },
+    {
+      "file": "MeadowFlowers.png",
+      "prompt": "One small irregular garden wildflower patch for a 3D game alpha cutout: many delicate white daisies with golden centres, a few cornflower blue blooms, soft pink small cosmos, grasses and fernlike small green leaves, varied heights, individual fine stems. Hand-painted Japanese anime background style, crisp petals and fresh emerald foliage with yellow-green highlights, not photorealistic. Genuinely transparent background with clear gaps among stems, whole patch in frame, no soil base, no sky, no vase, no text, no glow. Naturally composed dense flowering riverbank border seen from slightly low front view."
+    },
+    {
+      "file": "CliffStone.png",
+      "prompt": "Seamless tileable hand-painted anime landscape material albedo of rugged coastal slate and granite: cool blue-grey stone with charcoal deep irregular angular fissures, broad pale silver-grey sunlit planes, long slanted stratification and occasional tiny muted sage lichen patches. Large angular rock planes rather than pebbles or bricks. Flat orthographic material texture filling frame edge-to-edge, seamless on all sides, no cliff silhouette, no ocean, no landscape, no cast shadows, no perspective, no text. Painterly detailed Japanese animation background aesthetic."
+    },
+    {
+      "file": "RoofTiles.png",
+      "prompt": "Seamless tileable hand painted Japanese anime cottage roof material albedo: beautiful individually formed overlapping weathered terracotta roof tiles in warm muted coral red, burnt sienna and soft dusty orange, dark subtle seams, gentle painterly wear and sparse tiny sage moss patches. Flat orthographic top-down repeating texture, edge-to-edge, seamless, no house, no scene, no sky, no text, no perspective, no lighting bloom. Charming detailed coastal village game surface, not shiny and not photographic."
+    }
+  ]
+}

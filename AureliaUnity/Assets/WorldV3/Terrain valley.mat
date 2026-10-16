@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain valley
+  m_Shader: {fileID: 4800000, guid: 245269cc07865bb42a238ca7721fb3a7, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Dirt:
+        m_Texture: {fileID: 2800000, guid: 81429ae7248138d4ab7815614b74af6a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirtN:
+        m_Texture: {fileID: 2800000, guid: 58ad1f9c42fb7fe449d763ee20dad71d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Flag:
+        m_Texture: {fileID: 2800000, guid: c12d79051d87f6c45a7097c8973925c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlagN:
+        m_Texture: {fileID: 2800000, guid: e63a56d182305554ba5fa48c6f4893db, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Grass:
+        m_Texture: {fileID: 2800000, guid: e0bb17dfcc85c514183bf88cc12cf9fd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GrassN:
+        m_Texture: {fileID: 2800000, guid: f7f2daefbbb01cc4f812d2301a76625e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Litter:
+        m_Texture: {fileID: 2800000, guid: 6c4129a8abf902140aef504e1ccbc8c8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LitterN:
+        m_Texture: {fileID: 2800000, guid: dd1e4631857b1e744bfb6546fe5c5328, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Rock:
+        m_Texture: {fileID: 2800000, guid: f693f418c7074854e845d44133addfba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RockN:
+        m_Texture: {fileID: 2800000, guid: 24dbcd78010b0b8438b95beca35de654, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat:
+        m_Texture: {fileID: 2800000, guid: 8158e8c8203d937488a33e4f3b008c61, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats: []
+    m_Colors:
+    - _SplatRect: {r: -450, g: -350, b: 900, a: 900}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

@@ -1,0 +1,13 @@
+PASS old harbour stairs and balustrades removed
+PASS continuous path max grade=19.6deg
+PASS hillside path collision 27/27
+PASS true arched bridge exists
+PASS tree on the sea cliff exists
+PASS cliff house count=24
+PASS five small landing stages
+PASS articulated harbour residents
+PASS no bloom glare
+PASS missing/error materials=0
+PASS walkable new scene at (348.00, 36.00, 349.00)
+PASS walkable new scene at (-19.76, 12.00, -168.00)
+PASS walkable new scene at (317.59, 5.00, 194.00)

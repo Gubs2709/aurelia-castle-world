@@ -1,0 +1,3 @@
+Generated using the built-in image generation tool on 2026-10-15. Project asset: PaintedSky.png.
+Prompt: A production game sky texture only, landscape 3:2. Luminous hand-painted anime fantasy adventure sky; immense sculpted fluffy cumulus columns on the far left and right, left taller, clear azure central gap for a separate 3D castle. Warm ivory and peach sunlight from upper right, lavender and pale blue cloud shadows, detailed painterly billows. Cerulean at top, turquoise near bottom. No castle, landscape, mountains, people, water, text or UI.
+The castle and landscape in ReferenceCastle.unity are actual geometry; this bitmap supplies distant sky only.
